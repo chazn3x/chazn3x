@@ -5,7 +5,7 @@
 
 Hi there! 👋🏻
 
-I'm Giovanni Argentiero and I'm a **Full Stack Developer Freelancer** specialized in web development.
+I'm Giovanni Argentiero and I'm a **Full Stack Developer Freelance** specialized in web development.
 
 I can code with frameworks such as **Vue.js**, **React**, **Bootstrap** and **Laravel** or with plain languages like **JavaScript**, **PHP**, **SQL**, **SCSS** preprocessor and obviously **HTML** & **CSS**. I am also able to implement external works in my code using for example libraries, plugins or APIs.
 
