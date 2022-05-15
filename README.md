@@ -15,7 +15,7 @@ When I write code I always do my best to find a way to optimize it and every tim
 
 <hr>
 
-- 💻 I'm currently collaborating with Altruistic LTD as a Frontend Teacher
+- 💻 I'm currently collaborating with Altruistic Innovations LTD as a Frontend Teacher
 - 👾 I'm currently learning 3D web development using [Three.js](https://threejs.org "Three.js website") for graphics and [Cannon.es](https://pmndrs.github.io/cannon-es/docs/index.html "Cannon.es documentation") for physics
 - ⚛️ I'm currently learning React
 - 📚 I trained with [Boolean Careers](https://boolean.careers "Boolean Careers website") coding bootcamp
