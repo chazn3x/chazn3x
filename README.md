@@ -1,4 +1,4 @@
-![logo](profile.png)
+![logo](profile.jpeg)
 
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://www.linkedin.com/in/giovanni-argentiero)
 [![](https://img.shields.io/badge/Email-7A86B8?logo=maildotru)](<gio.a.98@gmail.com>)
