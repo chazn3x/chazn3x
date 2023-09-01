@@ -1,4 +1,4 @@
-![logo](profile.jpeg)
+<!-- ![logo](profile.jpeg) -->
 
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://www.linkedin.com/in/giovanni-argentiero)
 <a href="mailto:gio.a.98@gmail.com">
@@ -7,12 +7,12 @@
 [![](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/chaznex)
 [![](https://img.shields.io/badge/Facebook-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/giovanni.argentiero)
 
-# Giovanni Argentiero
+<!-- # Giovanni Argentiero
 ## Front End Developer 💻
 
 <br>
-
-Hi there! 👋🏻
+-->
+<!-- Hi there! 👋🏻 -->
 
 I'm Giovanni Argentiero and I'm a **Freelance Front End Developer**.
 
@@ -205,7 +205,12 @@ I've learned to build websites in WordPress and the basics of HTML, CSS and PHP.
 
 <br>
 
+![](profile.jpeg)
+
+
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://www.linkedin.com/in/giovanni-argentiero)
-[![](https://img.shields.io/badge/Email-7A86B8?logo=maildotru)](<gio.a.98@gmail.com>)
+<a href="mailto:gio.a.98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7A86B8?logo=maildotru"/>
+</a>
 [![](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/chaznex)
 [![](https://img.shields.io/badge/Facebook-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/giovanni.argentiero)
